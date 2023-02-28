@@ -134,3 +134,5 @@ data/database.settings
 
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java
+.idea/misc.xml
+.idea/vcs.xml
